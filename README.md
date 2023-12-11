@@ -4,14 +4,13 @@
 
 This project is a solution to the "News Homepage" challenge from Frontend Mentor. It provides an opportunity to enhance your CSS Grid skills by creating a responsive news homepage with a focus on layout and design.
 
-
 ## Overview
 
 The "News Homepage" challenge is a Frontend Mentor project designed to test and improve your CSS Grid skills. The goal is to create a responsive news homepage with a focus on layout and design. This project is built using Vite, React, and Tailwind CSS.
 
 ## Screenshot
 
-![News Homepage Screenshot](screenshot2.png)
+![News Homepage Screenshot](screenshot2.jpg)
 
 ## Features
 
@@ -51,8 +50,6 @@ npm run dev
 
 2. Open your browser and visit [http://localhost:3000](http://localhost:3000) to view the News Homepage.
 
-
 ## Acknowledgements
 
 This project was built as a solution to the "News Homepage" challenge by Frontend Mentor. Visit [Frontend Mentor](https://www.frontendmentor.io/challenges) for more challenges and to improve your frontend skills.
-
